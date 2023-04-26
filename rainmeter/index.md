@@ -16,7 +16,7 @@ This is the page where you can find my Rainmeter skins.
 [JDWS-01](/rainmeter/jdws-01): the first collection of minimal weather skins.  
 [JDWS-02](/rainmeter/jdws-02): the second collection of minimal weather skins.  
 [Moto](/rainmeter/moto): a recreation of Motorola's Android widget.  
-[Sienna 2.0](/rainmeter/sienna-2.0): An elegant, collapsible weather widget.  
+[Sienna 2.0](/rainmeter/sienna-2.0): an elegant, collapsible weather widget.  
 [Google Weather (JD Edition)](/rainmeter/google-weather-jd-edition): modernized version of Google Weather by fivetwofoureight.  
 [Velyki](/rainmeter/velyki): a simple now-playing widget.  
 [JDWS-03](/rainmeter/jdws-03): the third collection of minimal weather skins.  
