@@ -5,13 +5,15 @@ url: https://adriaanjelle.nl
 
 color_scheme: custom
 favicon_ico: "/assets/images/favicon.png"
-logo: "/assets/images/logo.png"
+# logo: "/assets/images/logo.png"
 
 search_enabled: false
 heading_anchors: false
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+  # Home: https://adriaanjelle.nl
+  # Blog: https://adriaanjelle.nl/blog/700-nas-build
+  # Rainmeter: https://adriaanjelle.nl/rainmeter
   
 defaults:
   - scope:
