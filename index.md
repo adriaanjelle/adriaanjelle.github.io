@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-![](assets/header-index.jpg)
+![](/assets/header-index.jpg)
 
 # Jelle Dekkers
 {: .fw-700 }
