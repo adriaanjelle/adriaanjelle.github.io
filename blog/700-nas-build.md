@@ -16,6 +16,8 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 1. TOC
 {:toc}
 
+----
+
 ## Components
 
 <dl>
