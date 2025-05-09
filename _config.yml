@@ -3,6 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 url: https://adriaanjelle.nl
 
+color_scheme: custom
 favicon_ico: "/assets/images/favicon.png"
 
 search_enabled: false
