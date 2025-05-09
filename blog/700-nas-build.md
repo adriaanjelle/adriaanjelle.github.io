@@ -24,5 +24,5 @@ I wanted to build a NAS and minecraft server. The storage is mainly going to be 
   <dt>RAM</dt>
   <dd>8GB DDR3</dd>
   <dt>Storage</dt>
-  <dd>1x Kingston SSDNow mS200 120GB<br>WD Red Plus 4 TB (WD40EFRX)</dd>
+  <dd>1x Kingston SSDNow mS200 120GB<br>4x WD Red Plus 4 TB (WD40EFRX)</dd>
 </dl>
