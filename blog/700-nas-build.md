@@ -9,11 +9,20 @@ nav_exclude: false
 I wanted to build a NAS and minecraft server. The storage is mainly going to be used for Blu-Ray rips and torrents.
 
 ## Components
-| Case    | Jonsbo N2 White                                                 |
-|---------|-----------------------------------------------------------------|
-| PSU     | Lian Li SP750 White                                             |
-| Cooler  | Noctua NH-L9i                                                   |
-| CPU     | Intel Core i5 4670K                                             |
-| GPU     | Integrated graphics                                             |
-| RAM     | 8GB DDR3                                                        |
-| Storage | 1x Kingston SSDNow mS200   120GB<br>WD Red Plus 4 TB (WD40EFRX) |
+
+<dl>
+  <dt>Case</dt>
+  <dd>Jonsbo N2 White</dd>
+  <dt>PSU</dt>
+  <dd>Lian Li SP750 White</dd>
+  <dt>Cooler</dt>
+  <dd>Noctua NH-L9i</dd>
+  <dt>CPU</dt>
+  <dd>Intel Core i5 4670K  </dd>
+  <dt>GPU</dt>
+  <dd>Integrated graphics </dd>
+  <dt>RAM</dt>
+  <dd>8GB DDR3</dd>
+  <dt>Storage</dt>
+  <dd>1x Kingston SSDNow mS200 120GB<br>WD Red Plus 4 TB (WD40EFRX)</dd>
+</dl>
