@@ -5,6 +5,7 @@ url: https://adriaanjelle.nl
 
 color_scheme: custom
 favicon_ico: "/assets/images/favicon.png"
+logo: "/assets/images/logo.png"
 
 search_enabled: false
 heading_anchors: false
