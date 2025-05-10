@@ -23,6 +23,7 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 ----
 
 ## Components
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
