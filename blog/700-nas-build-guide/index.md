@@ -24,12 +24,15 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 
 ## Components
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Component   | Name                                                        |
+| ----------- | ----------------------------------------------------------- |
+| Case        | Jonsbo N2 White                                             |
+| Motherboard | Asrock Z87E-ITX                                             |
+| CPU         | Intel Core i5 4670K                                         |
+| Cooler      | Noctua NH-L9i                                               |
+| RAM         | 8GB DDR3                                                    |
+| PSU         | Lian Li SP750 White                                         |
+| Storage     | Kingston SDNow mS200 120GB<br>4x WD Red Plus 4TB (WD40EFRX) |
 
 **The case**  
 The case is the Jonsbo N2 in white. It has room for five 3.5" hard drives, and supports both SATA and SAS. These drives are connected to a backplane that connects the drives to the motherboard and supplies power via molex. I chose this case for its compact size, good build quality and sleek design.
