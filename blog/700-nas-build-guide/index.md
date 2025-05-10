@@ -1,5 +1,5 @@
 ---
-title: €700 NAS build
+title: €700 NAS build guide
 parent: Blog
 nav_exclude: false
 ---
@@ -8,7 +8,7 @@ nav_exclude: false
 [Full size](header.jpg)
 {: .fs-1 }
 
-# €700 NAS build
+# €700 NAS build guide
 {: .fw-700 .no_toc }
 
 I wanted to build a NAS and Minecraft server. The storage is mainly going to be used for Blu-Ray rips and torrents.
