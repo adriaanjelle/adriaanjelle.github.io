@@ -3,7 +3,9 @@ title: €700 NAS build
 nav_exclude: false
 ---
 
-![](/assets/header-700-nas-build.jpg)
+![](/700-nas-build_header_1200px.jpg)
+[Full size](/700-nas-build_header.jpg)
+{: .fs-1 }
 
 # €700 NAS build
 {: .fw-700 .no_toc }
