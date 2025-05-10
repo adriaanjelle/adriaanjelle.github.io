@@ -2,6 +2,7 @@
 title: €700 NAS build guide
 parent: Blog
 nav_exclude: false
+nav_order: -1
 ---
 
 ![](header_1200px.jpg)
