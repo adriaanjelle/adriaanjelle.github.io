@@ -1,5 +1,6 @@
 ---
 title: €700 NAS build
+parent: Blog
 nav_exclude: false
 ---
 
