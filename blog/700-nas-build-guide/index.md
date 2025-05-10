@@ -25,7 +25,7 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 ## Components
 
 | Component   | Name                                                        |
-| ----------- | ----------------------------------------------------------- |
+| :---------- | :---------------------------------------------------------- |
 | Case        | Jonsbo N2 White                                             |
 | Motherboard | Asrock Z87E-ITX                                             |
 | CPU         | Intel Core i5 4670K                                         |
