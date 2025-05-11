@@ -49,3 +49,15 @@ The CPU cooler is a Noctua NH-L9i. I chose this because I love Noctua products, 
 
 **Future upgrades**  
 As for possible upgrades in the future: one good upgrade would be a low-profile 10Gb network card. Another likely upgrade would be to find 2x8GB sticks of DDR3, totaling 16 GB. Both Minecraft (especially recent versions) and ZFS require a lot of RAM.
+
+----
+
+# Required tools
+
+To build a pc, you'll at least need the following things:  
+- A screwdriver
+- Some zip ties
+- Side cutters (for zip ties)
+- A knife
+
+In this particular case, we'll need philips 2 and hex 2 mm bits. The hex bit is required to take off the top panel of the Jonsbo N2. This is usually not required in most cases. For the knife, I am using my good ol' Spyderco Para 3 Lightweight in MagnaCut.
