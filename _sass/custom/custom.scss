@@ -9,3 +9,8 @@ h1,
 
   @include fs-8;
 }
+
+
+.btn-deviantart {
+  @include btn-color($white, $deviantart);
+}
