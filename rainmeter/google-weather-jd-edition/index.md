@@ -9,7 +9,7 @@ nav_order: -6
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-![](https://img.shields.io/github/downloads/adriaanjelle/Google-Weather-JD-Edition/total?style=for-the-badge&labelColor=a4a6d3&color=a4a6d3) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Google-Weather-JD-Edition-Updated-2024-06-17-983724257)
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Google-Weather-JD-Edition-Updated-2024-06-17-983724257){: .btn .btn-primary}
 
 I saw [this](https://www.deviantart.com/fivetwofoureight/art/Google-Weather-5-0-OUTDATED-more-info-below-613748355) skin on DeviantArt by fivetwofoureight, and I figured I'd remake it and update the weather parser.
 
