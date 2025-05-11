@@ -9,10 +9,3 @@ h1,
 
 	@include fs-8;
 }
-.btn {
-	box-shadow: none;
-}
-
-.btn-deviantart {
-	@include btn-color($white, $deviantart);
-}
