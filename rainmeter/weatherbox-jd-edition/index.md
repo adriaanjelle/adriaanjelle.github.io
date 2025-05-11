@@ -9,7 +9,7 @@ nav_order: -12
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-![](https://img.shields.io/github/downloads/adriaanjelle/Weatherbox-JD-Edition/total?style=for-the-badge&labelColor=7b5467&color=7b5467) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Weatherbox-JD-Edition-Updated-2024-06-17-1056459934)
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Weatherbox-JD-Edition-Updated-2024-06-17-1056459934){: .btn }
 
 {: .important }
 Windows 11 is _HIGHLY_ recommended for this skin.

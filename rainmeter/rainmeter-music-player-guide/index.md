@@ -1,8 +1,10 @@
 ---
 title: Rainmeter music player guide
+nav_exclude: true
 ---
 
-# Cleartext (JD Edition)
+# Rainmeter music player guide
+
 ## WindowsAPI
 You don't have to do anything for this. This option should work flawlessly with Spotify, without any setup.
 See a list of supported players [here](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md).
