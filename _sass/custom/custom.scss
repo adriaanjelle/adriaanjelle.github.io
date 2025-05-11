@@ -1,16 +1,18 @@
 .table-wrapper {
-  box-shadow: none;
-  border: $border rgba($border-color, 1);
+	box-shadow: none;
+	border: $border rgba($border-color, 1);
 }
 
 h1,
 .text-alpha {
-  font-weight: 700;
+	font-weight: 700;
 
-  @include fs-8;
+	@include fs-8;
+}
+.btn {
+	box-shadow: none;
 }
 
-
 .btn-deviantart {
-  @include btn-color($white, $deviantart);
+	@include btn-color($white, $deviantart);
 }
