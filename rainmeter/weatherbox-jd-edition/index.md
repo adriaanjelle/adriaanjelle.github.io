@@ -9,7 +9,8 @@ nav_order: -12
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Weatherbox-JD-Edition-Updated-2024-06-17-1056459934){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/Weatherbox-JD-Edition/releases/latest){: .btn .btn-primary .mr-2 }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Weatherbox-JD-Edition-Updated-2024-06-17-1056459934){: .btn }
 
 {: .important }
 Windows 11 is _HIGHLY_ recommended for this skin.

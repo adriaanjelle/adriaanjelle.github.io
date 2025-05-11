@@ -9,7 +9,8 @@ nav_order: -4
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Moto-Updated-2024-06-17-983724004){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/Moto/releases/latest){: .btn .btn-primary .mr-2 }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Moto-Updated-2024-06-17-983724004){: .btn }
 
 This is a recreation of the Android widget found on Motorola devices. There are various options for the outer circle.
 

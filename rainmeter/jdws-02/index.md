@@ -9,7 +9,8 @@ nav_order: -3
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/JDWS-02-Updated-2024-06-17-983723952){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/JDWS-02/releases/latest){: .btn .btn-primary .mr-2 }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/JDWS-02-Updated-2024-06-17-983723952){: .btn }
 
 JDWS – Jelle Dekkers' Weather Skins – is a collection of weather skins. Each release comes with four skins. Combining them like this saves me a lot of time and hassle whenever I want to update something.
 

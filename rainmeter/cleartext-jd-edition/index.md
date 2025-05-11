@@ -9,7 +9,8 @@ nav_order: -10
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Cleartext-JD-Edition-983916381){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/Cleartext-JD-Edition/releases/latest){: .btn .btn-primary .mr-2 }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Cleartext-JD-Edition-983916381){: .btn }
 
 This is a remake of the extremely popular Cleartext skin by redsaph. It has support for the most-used players, including Spotify. It also features smooth scrolling text! Just pick a song with a very long title and see what happens. You can disable it to save resources (recommended on laptops) if you want to.
 

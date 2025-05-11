@@ -9,7 +9,8 @@ nav_order: -5
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Sienna-2-0-Updated-2024-06-17-983724087){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/Sienna-2.0/releases/latest){: .btn .btn-primary .mr-2 }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Sienna-2-0-Updated-2024-06-17-983724087){: .btn }
 
 Totally not named after the MetArt model.
 
