@@ -5,12 +5,12 @@ nav_exclude: false
 nav_order: -1
 ---
 
+# €700 NAS build guide
+{: .no_toc }
+
 ![](header_1200px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-
-# €700 NAS build guide
-{: .no_toc }
 
 I wanted to build a NAS and Minecraft server. The storage is mainly going to be used for Blu-Ray rips and torrents.
 
