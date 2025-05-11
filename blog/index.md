@@ -1,6 +1,5 @@
 ---
 title: Blog
-nav_exclude: false
 has_toc: false
 nav_order: 3
 ---

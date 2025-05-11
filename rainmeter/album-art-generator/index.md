@@ -1,10 +1,12 @@
 ---
 title: Album Art Generator
+parent: Rainmeter
+nav_order: -1
 ---
 
 # Album Art Generator
 
-![](header-1500px.jpg)
+![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
 ![](https://img.shields.io/github/downloads/adriaanjelle/Album-Art-Generator/total?style=for-the-badge&labelColor=171d1a&color=171d1a) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Album-Art-Generator-983622396)

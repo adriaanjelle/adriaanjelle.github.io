@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![](/assets/header-index.jpg)
+![](/header_1200px.jpg)
 
 # Jelle Dekkers
 
