@@ -9,7 +9,8 @@ nav_order: -1
 ![](header_1500px.jpg)
 [Full size](header.jpg)
 {: .fs-1 }
-[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Album-Art-Generator-983622396){: .btn .btn-primary}
+[Download](https://github.com/adriaanjelle/Album-Art-Generator/releases/latest){: .btn .btn-primary }
+[DeviantArt](https://www.deviantart.com/adriaanjelle/art/Album-Art-Generator-983622396){: .btn }
 
 I wanted to make something for making simple album art. Just an image with some text on it. Using Photoshop for making something like this is just too finnicky, in my opinion. To save the album art, simply take a screenshot of it.
 
