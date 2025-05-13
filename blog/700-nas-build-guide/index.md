@@ -233,7 +233,7 @@ The next part is one of the tricker parts as well. Start by locatingthe front I/
 
 Let's start with the easy one: USB 3.0 (type A). This is quite a large connector, and note that it is keyed with a little notch. It's also missing a pin that corresponds with a missing pin on the motherboard's USB 3.0 header. Simply plug it in, and you're done!
 
-This motherboard does not have a USB type C header, so we won't be using it here. If your motherboard doesn't have this header and you'd still like to use the USB type C port on the case, trhere are various adapters and expansion cards you can get to resolve that.
+This motherboard does not have a USB type C header, so we won't be using it here. If your motherboard doesn't have this header and you'd still like to use the USB type C port on the case, there are various adapters and expansion cards you can get to resolve that.
 
 ![](img/DSC00463_1200px.jpg)
 [Full size](img/DSC00463.jpg)
