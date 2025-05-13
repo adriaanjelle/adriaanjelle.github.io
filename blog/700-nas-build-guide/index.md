@@ -27,7 +27,7 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 | Component   | Name                                                        |
 | :---------- | :---------------------------------------------------------- |
 | Case        | Jonsbo N2 White                                             |
-| Motherboard | Asrock Z87E-ITX                                             |
+| Motherboard | ASRock Z87E-ITX                                             |
 | CPU         | Intel Core i5 4670K                                         |
 | Cooler      | Noctua NH-L9i                                               |
 | RAM         | 8GB DDR3                                                    |
@@ -38,7 +38,7 @@ I wanted to build a NAS and Minecraft server. The storage is mainly going to be 
 The case is the Jonsbo N2 in white. It has room for five 3.5" hard drives, and supports both SATA and SAS. These drives are connected to a backplane that connects the drives to the motherboard and supplies power via molex. I chose this case for its compact size, good build quality and sleek design.
 
 **The CPU, RAM, and motherboard**  
-I found a good deal on Marktplaats (the Dutch version of eBay) for a used PC. It has an i5 4670K, 8 GB of DDR3, an Asrock Z87E-ITX and a Blu-Ray drive. It's built in a Cooler Master N200 which I won't use.
+I found a good deal on Marktplaats (the Dutch version of eBay) for a used PC. It has an i5 4670K, 8 GB of DDR3, an ASRock Z87E-ITX and a Blu-Ray drive. It's built in a Cooler Master N200 which I won't use.
 
 The motherboard is the best part of this setup: it has an mSATA slot on the back, which will allow me to install a small boot drive. I can also use it for hosting the Minecraft server with the speed on an SSD, although not quite the speeds on a modern NVMe drive. This board also has **six** SATA ports, which makes it perfect for the Jonsbo N2.
 
